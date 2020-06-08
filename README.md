@@ -1,5 +1,5 @@
 ### 1. 프로젝트 개요
-<p> IT가 발전하면서 보안의 필요성 또한 증가하고 있다. 보안을 하기 위해 필요한 것은 로그를 확인하는 것 이다. 그러나 로그의 양은 방대하고 모든 로그를 다 보는 것은 사실상 어려운 일이다. 그리하여 본 프로젝트에서는 로그를 시각화하여 현재 상태를 직관적으로 보여주는 로그 통계 리포트를 개발하려고 한다.
+<p> IT는 클라우드 환경으로 변하고 있고 IP를 이용한 사용자 식별과 보안 또한 어려움이 있다. 사용자가 IP할당을 요청하면 DHCP에서 격리IP할당과 인증IP할당을 해주는데 보안의 위험도 생긴다. 그래서 본 프로젝트에서는 이러한 문제를 해결하기 위해 인증 시스템의 DB에 저장되어 있는 ID 정보를 IPAM에 넣어주는 모듈을 개발하려고 한다.
 
 ### 2. 팀 소개
 
@@ -8,7 +8,7 @@
 <p> 이원구 : https://github.com/WonGooLee
 
 ### 3. Abstract (영문 요약)
-<p> As IT advances, the need for security is also increasing. What you need to secure is to check the logs. But the amount of logs is vast and it is virtually difficult to see all of them. Thus, in this project, we want to develop log statistics reports that visualize logs and give an intuitive picture of their current state.
+<p> IT is turning into a cloud environment, and user identification and security using IP are also difficult. When a user requests IP allocation, DHCP provides isolation IP allocation and authentication IP allocation, which also creates a security risk. Thus, in order to solve these problems, this project seeks to develop a module that puts ID information stored in the DB of the authentication system into the IPAM.
 
 ### 4. 소개 영상
 ### 5. 결과 영상
